@@ -1,10 +1,10 @@
-# 👩‍💻 Kashmala — Frontend Developer
+# 𝑰𝒕𝒔 𝑴𝒆 𝑲𝒂𝒔𝒉𝒎𝒂𝒍𝒂🦢"
 
 
 
 
-"𝑰𝒕𝒔 𝑴𝒆 𝑲𝒂𝒔𝒉𝒎𝒂𝒍𝒂🦢"
-an aspiring **Frontend Developer** passionate about creating clean, responsive, and user-friendly web interfaces. I enjoy turning ideas into interactive digital experiences while continuously learning modern web technologies.
+
+Here i'm aspiring **Frontend Developer** passionate about creating clean, responsive, and user-friendly web interfaces. I enjoy turning ideas into interactive digital experiences while continuously learning modern web technologies.
 
 ---
 
