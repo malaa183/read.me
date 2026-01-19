@@ -2,11 +2,9 @@
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/your-github-username?label=Followers&style=flat)
-![GitHub Stars](https://img.shields.io/github/stars/your-github-username?label=Stars&style=flat)
 
-Hi! I’m **Kashmala**, an aspiring **Frontend Developer** passionate about creating clean, responsive, and user-friendly web interfaces. I enjoy turning ideas into interactive digital experiences while continuously learning modern web technologies.
+"𝑰𝒕𝒔 𝑴𝒆 𝑲𝒂𝒔𝒉𝒎𝒂𝒍𝒂🦢"
+an aspiring **Frontend Developer** passionate about creating clean, responsive, and user-friendly web interfaces. I enjoy turning ideas into interactive digital experiences while continuously learning modern web technologies.
 
 ---
 
@@ -46,7 +44,6 @@ Roshan Tara School, Karachi
 ## 🎯 Career Goal
 To become a skilled frontend developer by crafting seamless and responsive web experiences, continuously learning modern technologies, and contributing to innovative digital solutions.
 
----
 
 ⭐ *Feel free to explore my repositories and connect with me!*
 # read.me
